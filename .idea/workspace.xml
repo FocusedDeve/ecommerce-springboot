@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="253e08f5-8112-46a8-b461-697a6520f78a" name="Changes" comment="second">
-      <change afterPath="$PROJECT_DIR$/Admin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/com/ecommerce/admin/AdminApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/src/test/java/com/ecommerce/admin/AdminApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/LibaryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/dto/AdminDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/model/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/repository/AdminRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/repository/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/service/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/service/impl/AdminServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libary/src/test/java/com/ecommerce/libary/LibaryApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="253e08f5-8112-46a8-b461-697a6520f78a" name="Changes" comment="second" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,12 +126,32 @@
       <option name="presentableId" value="Default" />
       <updated>1694516902733</updated>
       <workItem from="1694516906977" duration="18311000" />
-      <workItem from="1694601844342" duration="3706000" />
+      <workItem from="1694601844342" duration="4454000" />
     </task>
+    <task id="LOCAL-00001" summary="second">
+      <option name="closed" value="true" />
+      <created>1694608016822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694608016822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
