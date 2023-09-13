@@ -4,31 +4,150 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="253e08f5-8112-46a8-b461-697a6520f78a" name="Changes" comment="" />
+    <list default="true" id="253e08f5-8112-46a8-b461-697a6520f78a" name="Changes" comment="second">
+      <change afterPath="$PROJECT_DIR$/Admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/com/ecommerce/admin/AdminApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/test/java/com/ecommerce/admin/AdminApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/LibaryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/dto/AdminDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/model/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/repository/AdminRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libary/src/test/java/com/ecommerce/libary/LibaryApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Admin" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2VIHusb58RVHY98RdAdA5xEmUfs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "19",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
+    "spring.configuration.checksum": "5b53294e3b1c427d4f5a1b08d843d0a0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AdminApplication (1)">
+    <configuration name="AdminApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ecommerce.admin.AdminApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecommerce.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ecommerce.admin.admin.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibaryApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Libary" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ecommerce.libary.LibaryApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecommerce.libary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibaryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Libary" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ecommerce.libary.libary.LibaryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AdminApplication (1)" />
+        <item itemvalue="Spring Boot.LibaryApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,8 +156,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694516902733</updated>
-      <workItem from="1694516906977" duration="11000" />
+      <workItem from="1694516906977" duration="18311000" />
+      <workItem from="1694601844342" duration="3706000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Libary/src/main/java/com/ecommerce/libary/model/Admin.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ecommerce_Springboot$AdminApplication__1_.ic" NAME="AdminApplication (1) Coverage Results" MODIFIED="1694525613674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ecommerce.admin.*</FILTER>
+    </SUITE>
   </component>
 </project>
